@@ -1,4 +1,4 @@
-#include "../inc/vm.hpp"
+#include "vm.hpp"
 
 #if defined(_DEBUG) || defined(DEBUG)
 #define Q_DEBUG
