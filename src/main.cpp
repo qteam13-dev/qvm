@@ -1,5 +1,4 @@
-#include <iostream>
-#include "vm.hpp"
+#include "../inc/vm.hpp"
 
 int main(int argc, char** argv) {
 	vm::vm_c qvm;
